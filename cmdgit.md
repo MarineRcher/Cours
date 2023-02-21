@@ -36,8 +36,28 @@ Pour commit, c'est à dire faire la sauvegarde :
     git commit -m "blabla"
 ```
 
+Pour renommer la branche principale en main
+```
+git branch -M main
+```
+
+Synchronise la branche pour envoyer la sauvegarde :
+```
+git remote add origin <url repo>
+```
+
+Pour envoyer la dernière sauvegarde sur le repo :
+```
+git push -u origin main
+```
+
 Voir history:
 ``` bash
     git log
+```
+
+une liste d'entrées distantes stockées dans le fichier ./. git/config du dépôt :
+```
+git remote
 ```
 
