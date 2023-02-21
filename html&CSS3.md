@@ -118,5 +118,7 @@ Les selecteurs :
 - Peuvent contenir des '-' ou '_'
 - Sensible à la casse (maj, minu)
 
-Selecteur d'attributs 
+Selecteur d'attributs : 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Assertions
+
+
