@@ -81,3 +81,42 @@ Liste nombre
     <li></li>
     <li></li>
 </ol>
+```
+```
+<pre>
+```
+
+    Sert à faire un tableau
+
+Les balises <a> servent à insérer des liens
+
+    HTTP
+    https://developer.mozilla.org/fr/docs/Web/HTTP
+
+### CSS
+On peut appliquer des styles à des atributs class
+
+On peut appliquer le style de manière spécifique avec l'attribut id:
+
+``` CSS
+#test {
+    flexbox=flex;
+}
+```
+
+### Structures et regles en css
+regle de style :
+```
+selecteur{
+    props:valeur;
+}
+```
+
+Les selecteurs :
+- Ne doivent pas commencer par un chiffre
+- ne peuvent pas contenir d'espace, caractères spéciaux
+- Peuvent contenir des '-' ou '_'
+- Sensible à la casse (maj, minu)
+
+Selecteur d'attributs 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Assertions
